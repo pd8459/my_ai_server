@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+torch
+torchvision
+sentence-transformers
+python-multipart
+Pillow
